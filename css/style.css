@@ -166,7 +166,7 @@ header #links ul li:not(:last-child) a {
 article {
   position: relative;
   height: calc(100vh - 64px);
- background: url('../img/2.jpg');
+ background-image: url('../img/2.jpg');
 }
 article img {
   width: 100%;
