@@ -165,9 +165,10 @@ header #links ul li:not(:last-child) a {
 /*landing section start*/
 article {
   position: relative;
+  height: calc(100vh - 64px);
+ background: url('../img/2.jpg');
 }
 article img {
-  height: calc(100vh - 64px);
   width: 100%;
 }
 article .hello-world {
